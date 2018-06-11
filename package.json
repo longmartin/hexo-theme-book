@@ -1,0 +1,19 @@
+{
+  "name": "hexo-theme-book",
+  "version": "1.0.0",
+  "description": "Material Design theme for Hexo.",
+  "keywords": [
+    "hexo",
+    "book",
+    "material design"
+  ],
+  "author": {
+    "name": "Martin Long",
+    "email": "1156341485@qq.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/longmartin/hexo-theme-book.git",
+    "type": "git"
+  }
+}
