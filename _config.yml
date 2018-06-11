@@ -220,7 +220,7 @@ gitment:
   enable: false
   lazy: true #是否开启初始化隐藏评论
   owner: longmartin #github账号
-  repo: longmartin.github.io #留言仓库
+  repo: gitments #留言仓库
   oauth: 
     client_id: #client_id
     client_secret: #client_secret
