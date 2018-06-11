@@ -17,7 +17,7 @@ Material Design 风格的Hexo主题，基于 **Hexo 3.0+** 制作。
 
 ## Document
 
-[文档 | Document](https://github.com/codefine/hexo-theme-hexo/wiki)
+[文档 | Document](https://github.com/longmartin/hexo-theme-hexo/wiki)
 
 ## FAQ
 
